@@ -1,3 +1,5 @@
+# IGNORE THIS SCRIPT AS IT HASNT BEEN ADAPTIVE FOR ITS PURPOSE IN THIS SCRIPT... USING AS TEMPLATE.
+
 import pandas as pd
 import requests
 import urllib.request
