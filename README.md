@@ -1,4 +1,4 @@
-<img src=''>
+<img src='https://raw.githubusercontent.com/makiisthenes/cityAM-dataGatherer/master/city-am-logo-web.jpg'>
 # cityAM-dataGatherer
 Will download financial news from CityAM sources and analyise for companies worth looking for...<br>
 This script will download the latest CityAm Newspaper, convert it into jpg file from pdf<br>
