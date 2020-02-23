@@ -1,3 +1,4 @@
+<img src=''>
 # cityAM-dataGatherer
 Will download financial news from CityAM sources and analyise for companies worth looking for...<br>
 This script will download the latest CityAm Newspaper, convert it into jpg file from pdf<br>
