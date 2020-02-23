@@ -4,5 +4,7 @@
 # pdf2image -- https://github.com/Belval/pdf2image
 # https://www.sharecast.com/index/FTSE_100
 # https://www.bloomberg.com/markets/stocks
+<-----API STOCK CALLER --->
 # API KEY = hidden
 # https://www.alphavantage.co/support/#api-key - API Source
+# https://www.youtube.com/watch?v=339AfkUQ67o
