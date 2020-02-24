@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/makiisthenes/cityAM-dataGatherer/master/city-am-logo-web.jpg'>
+<img src='https://raw.githubusercontent.com/makiisthenes/cityAM-dataGatherer/master/city-am-logo-web.jpg'><b>[Michael Peres]</b><br>
 <b><h1>cityAM-dataGatherer</b></h1>
 Will download financial news from CityAM sources and analyise for companies worth looking for...<br>
 This script will download the latest CityAm Newspaper, convert it into jpg file from pdf<br>
@@ -16,5 +16,5 @@ Many of the resources required for this program to work are listed in the source
   --> Pytesseract<br>
   --> NLTK Natural Language Processing<br>
   
-Michael Peres<br>
+
 <i>Work Experience 24-02-2020 --> 29-02-2020<i>
