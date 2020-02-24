@@ -16,5 +16,5 @@ Many of the resources required for this program to work are listed in the source
   --> Pytesseract<br>
   --> NLTK Natural Language Processing<br>
   
-Michael Peres
-Work Experience 24-02-2020 --> 29-02-2020
+Michael Peres<br>
+<i>Work Experience 24-02-2020 --> 29-02-2020<i>
