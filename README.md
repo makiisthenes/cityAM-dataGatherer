@@ -11,3 +11,10 @@ Then will convert images into text currently...<br>
   <li>--> Devise a trading strategy to use for trading.</li>
   <li>--> Look into trading laws, i.e Traders 3 Day Rule...</li>
 </ul>
+<b>Sources</b><br>
+Many of the resources required for this program to work are listed in the sources.txt file, but regardless,<br>
+  --> Pytesseract<br>
+  --> NLTK Natural Language Processing<br>
+  
+Michael Peres
+Work Experience 24-02-2020 --> 29-02-2020
