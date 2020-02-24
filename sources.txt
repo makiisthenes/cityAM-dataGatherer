@@ -13,3 +13,8 @@
 # https://www.worldtradingdata.com/documentation#stock-and-index-real-time
 # https://www.worldtradingdata.com/members/home
 # https://www.alphavantage.co/support/#api-key - API Source
+<---- Dependency Links for Natural Language Processing ---->
+# https://github.com/nltk/nltk_data/tree/gh-pages/packages
+# https://www.nltk.org/data.html
+# https://github.com/nltk/nltk
+# https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/

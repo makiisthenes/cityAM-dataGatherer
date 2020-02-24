@@ -9,7 +9,7 @@ interval = '1min'
 symbol = 'MSFT'  # tick of company 'symbol'
 function = 'TIME_SERIES_INTRADAY'
 url = "https://www.alphavantage.co/query?function="+function+"&symbol="+symbol+"&interval="+interval+"&apikey="+vantageapikey
-call =requests.get(url).json()
+call = requests.get(url).json()
 print(call)
 # ----------------------------------------------------------------------------------------------------------------------
 wtdapikey = 'KaoSKSITuap5ZX2ZgctLPBNNOecyAMz4i2rpaU31oASLJvssn5m3NxnAjThz'
@@ -20,3 +20,4 @@ requests.get('https://www.worldtradingdata.com/documentation#stock-and-index-rea
 # ----------------------------------------------------------------------------------------------------------------------
 # COMPLETELY FREE, UNLIMITED REQ QUANDL
 requests.get('https://www.quandl.com/tools/python')
+# Look at API Documentation.
