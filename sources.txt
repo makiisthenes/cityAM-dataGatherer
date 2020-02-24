@@ -1,11 +1,15 @@
-# needed to install tesseract, which allows to see the text from image
+# needed to install 'pytesseract', which allows to see the text from image
 # sited: https://tesseract-ocr.github.io/tessdoc/4.0-with-LSTM.html#400-alpha-for-windows
 # download file for windows: http://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe
 # pdf2image -- https://github.com/Belval/pdf2image
 # https://www.sharecast.com/index/FTSE_100
 # https://www.bloomberg.com/markets/stocks
-<-----API STOCK CALLER --->
+<----- API STOCK CALLERS ----->
 # API KEY = hidden
 # https://www.alphavantage.co/support/#api-key - API Source
 # https://www.youtube.com/watch?v=339AfkUQ67o
 # https://www.alphavantage.co/documentation/ - documentation for api...
+# https://www.quandl.com/tools/python
+# https://www.worldtradingdata.com/documentation#stock-and-index-real-time
+# https://www.worldtradingdata.com/members/home
+# https://www.alphavantage.co/support/#api-key - API Source
