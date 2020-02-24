@@ -20,3 +20,4 @@
 # https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/
 # <----- AI Resources ----->
 # https://docs.microsoft.com/en-us/cognitive-toolkit/
+# https://courses.edx.org/courses/course-v1:Microsoft+DAT236x+1T2020/course/
