@@ -8,3 +8,4 @@
 # API KEY = hidden
 # https://www.alphavantage.co/support/#api-key - API Source
 # https://www.youtube.com/watch?v=339AfkUQ67o
+# https://www.alphavantage.co/documentation/ - documentation for api...
