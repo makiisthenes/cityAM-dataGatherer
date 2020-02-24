@@ -18,3 +18,5 @@ Many of the resources required for this program to work are listed in the source
   
 
 <i>Work Experience 24-02-2020 --> 29-02-2020<i>
+Cited:<br>
+  Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.<br>
