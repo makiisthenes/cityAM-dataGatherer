@@ -1,5 +1,5 @@
 <img src='https://raw.githubusercontent.com/makiisthenes/cityAM-dataGatherer/master/city-am-logo-web.jpg'><b>[Michael Peres]</b><br>
-<b><h1>cityAM-dataGatherer</b></h1>
+<b><h1>cityAM-dataGatherer [incomplete]</b></h1>
 Will download financial news from CityAM sources and analyise for companies worth looking for...<br>
 This script will download the latest CityAm Newspaper, convert it into jpg file from pdf<br>
 Then will convert images into text currently...<br>
