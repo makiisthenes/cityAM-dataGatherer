@@ -3,3 +3,4 @@ pillow>=6.2.0
 pytesseract==0.3.2
 requests==2.22.0
 selenium==3.141.0
+urllib3>=1.26.18 # not directly required, pinned by Snyk to avoid a vulnerability
